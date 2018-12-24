@@ -43,13 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CalculadorDeImpostos.cs" />
-    <Compile Include="ICMS.cs" />
-    <Compile Include="Imposto.cs" />
-    <Compile Include="ISS.cs" />
+    <Compile Include="ChainOfResponsabilitie\CalculadorDeDescontos.cs" />
+    <Compile Include="Strategy\CalculadorDeImpostos.cs" />
+    <Compile Include="ChainOfResponsabilitie\Desconto.cs" />
+    <Compile Include="ChainOfResponsabilitie\DescontoPorCincoItens.cs" />
+    <Compile Include="ChainOfResponsabilitie\DescontoPorMaisDeQuinhentosReais.cs" />
+    <Compile Include="Strategy\ICMS.cs" />
+    <Compile Include="Strategy\Imposto.cs" />
+    <Compile Include="Strategy\ISS.cs" />
+    <Compile Include="Item.cs" />
     <Compile Include="Orcamento.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ChainOfResponsabilitie\SemDesconto.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
