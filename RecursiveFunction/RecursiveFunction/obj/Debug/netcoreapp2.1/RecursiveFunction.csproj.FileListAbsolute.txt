@@ -1,0 +1,11 @@
+C:\Users\Pedro\source\repos\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp2.1\RecursiveFunction.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp2.1\RecursiveFunction.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp2.1\RecursiveFunction.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp2.1\RecursiveFunction.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\RecursiveFunction\RecursiveFunction\bin\Debug\netcoreapp2.1\RecursiveFunction.deps.json
+C:\Users\Pedro\source\repos\RecursiveFunction\RecursiveFunction\bin\Debug\netcoreapp2.1\RecursiveFunction.runtimeconfig.json
+C:\Users\Pedro\source\repos\RecursiveFunction\RecursiveFunction\bin\Debug\netcoreapp2.1\RecursiveFunction.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\RecursiveFunction\RecursiveFunction\bin\Debug\netcoreapp2.1\RecursiveFunction.dll
+C:\Users\Pedro\source\repos\RecursiveFunction\RecursiveFunction\bin\Debug\netcoreapp2.1\RecursiveFunction.pdb
+C:\Users\Pedro\source\repos\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp2.1\RecursiveFunction.dll
+C:\Users\Pedro\source\repos\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp2.1\RecursiveFunction.pdb
