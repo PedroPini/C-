@@ -1,0 +1,11 @@
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\Hosting\bin\Debug\Hosting.exe
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\Hosting\bin\Debug\Hosting.pdb
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\Hosting\bin\Debug\WCF_cadastro_de_usuarios.dll
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\Hosting\bin\Debug\WCF_cadastro_de_usuarios.pdb
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\Hosting\bin\Debug\WCF_cadastro_de_usuarios.dll.config
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\Hosting\obj\Debug\Hosting.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\Hosting\obj\Debug\Hosting.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\Hosting\obj\Debug\Hosting.csproj.CopyComplete
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\Hosting\obj\Debug\Hosting.exe
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\Hosting\obj\Debug\Hosting.pdb

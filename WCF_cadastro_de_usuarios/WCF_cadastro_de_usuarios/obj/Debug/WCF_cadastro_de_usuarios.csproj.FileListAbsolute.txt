@@ -1,0 +1,6 @@
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\WCF_cadastro_de_usuarios\bin\Debug\WCF_cadastro_de_usuarios.dll.config
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\WCF_cadastro_de_usuarios\bin\Debug\WCF_cadastro_de_usuarios.dll
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\WCF_cadastro_de_usuarios\bin\Debug\WCF_cadastro_de_usuarios.pdb
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\WCF_cadastro_de_usuarios\obj\Debug\WCF_cadastro_de_usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\WCF_cadastro_de_usuarios\obj\Debug\WCF_cadastro_de_usuarios.dll
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\WCF_cadastro_de_usuarios\obj\Debug\WCF_cadastro_de_usuarios.pdb

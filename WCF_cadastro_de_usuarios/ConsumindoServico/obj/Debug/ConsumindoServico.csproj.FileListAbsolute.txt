@@ -1,0 +1,10 @@
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\ConsumindoServico\bin\Debug\ConsumindoServico.exe.config
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\ConsumindoServico\bin\Debug\ConsumindoServico.exe
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\ConsumindoServico\bin\Debug\ConsumindoServico.pdb
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\ConsumindoServico\obj\Debug\ConsumindoServico.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\ConsumindoServico\obj\Debug\ConsumindoServico.Form1.resources
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\ConsumindoServico\obj\Debug\ConsumindoServico.Properties.Resources.resources
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\ConsumindoServico\obj\Debug\ConsumindoServico.exe
+C:\Users\Pedro\source\repos\WCF_cadastro_de_usuarios\ConsumindoServico\obj\Debug\ConsumindoServico.pdb
